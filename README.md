@@ -1,4 +1,4 @@
 # EventTest
 
-#### 介绍
-这是一个专用于测试的Repo
+#### Intro. 
+EventTest is a test repo for EventPlatform 
